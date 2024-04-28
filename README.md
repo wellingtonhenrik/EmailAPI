@@ -1,6 +1,6 @@
 # Email API
 
-Esta API foi desenvolvida utilizando ASP.NET Core 8 e segue a arquitetura DDD para implementar de envio de email, utilizando autenticação JWT. 
+Esta API foi desenvolvida utilizando ASP.NET Core 8 e segue a arquitetura DDD para Implementação de envio de email, utilizando autenticação JWT. 
 Conta também interfaces e injeção de dependência para facilitar a manutenção e testabilidade do código.
 
 ## Estrutura do Projeto
