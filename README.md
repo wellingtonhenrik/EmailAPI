@@ -21,3 +21,4 @@ A estrutura do projeto é organizada da seguinte forma:
 ### Configuração do envio de email
 
 1. Configure o remetente para o envio de email na `appsettings.json`.
+2. Configure o usuario e senha que pode acessar a api para autenticação JWT `appsettings.json`.
